@@ -5,6 +5,6 @@
 [![SkillIcons](https://skillicons.dev/icons?i=python,java,spring,docker,html,css,js,figma)](https://skillicons.dev)<br/>
 <div align="left">
   
-[![Ygor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calimanis-ygor&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+[![Ygor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calimanisYgor&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
