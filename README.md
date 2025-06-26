@@ -1,8 +1,16 @@
-# 👋 Olá! Eu sou Ygor, um entusiasta da programação apaixonado por criar soluções inovadoras.
+# 👋 Olá! Sou Ygor.
 
-🚀 Minha jornada no mundo da programação é uma constante busca por aprendizado e desafios. Estou sempre aberto a colaborações e novas oportunidades para expandir meu conjunto de habilidades. Vamos construir algo incrível juntos!
+Desenvolvedor apaixonado por **criar soluções inovadoras** e em constante busca por aprendizado.
 
-[![SkillIcons](https://skillicons.dev/icons?i=python,java,spring,docker,html,css,js,figma)](https://skillicons.dev)<br/>
-<div align="left">
-  
- </div>
+---
+
+### Minhas Habilidades
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
