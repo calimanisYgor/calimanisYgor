@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Ygor!
 
 ### 🚀 Sobre Mim
-Desenvolvedor apaixonado por tecnologia e programação, focado em criar soluções robustas e inovadoras. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades, especialmente em desenvolvimento Backend com Java e Python.
+Desenvolvedor apaixonado por tecnologia e programação, focado em criar soluções robustas e inovadoras. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades, especialmente em desenvolvimento Backend com NodeJS.
 
 ---
 
